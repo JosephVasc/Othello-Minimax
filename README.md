@@ -1,2 +1,2 @@
 # Othello-Minimax
-Othello game using minimax algorithm
+Othello game using minimax and greedy algorithms
